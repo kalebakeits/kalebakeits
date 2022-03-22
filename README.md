@@ -1,4 +1,4 @@
-About Me: https://student.csc.liv.ac.uk/~sgkkeits/index.html
+About Me: kalebakeitshokile.co.uk
 - 👋 Hi, I’m @kalebakeits
 - 👀 I’m interested in robotics and recently web development
 - 🌱 I’m currently studying an MSc in computer science
