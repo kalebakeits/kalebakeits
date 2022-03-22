@@ -1,4 +1,4 @@
-About Me: kalebakeitshokile.co.uk
+About Me: http://kalebakeitshokile.co.uk
 - 👋 Hi, I’m @kalebakeits
 - 👀 I’m interested in robotics and recently web development
 - 🌱 I’m currently studying an MSc in computer science
