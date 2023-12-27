@@ -4,7 +4,7 @@ About Me: http://kalebakeitshokile.co.uk
 - 🌱 I’m currently studying an MSc in computer science
 - 💞️ I’m looking to collaborate on algorithms in robotics, machine learning and software development
 - 📫 How to reach me:
-    * Email: kalebahelp@gmail.co (help with programming)
+    * Email: kalebahelp@gmail.com (help with programming)
     * Instagram: @kaleba.k 
     * LinkedIn: https://www.linkedin.com/in/kaleba-keitshokile-b5a174196/
 
