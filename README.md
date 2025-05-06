@@ -8,10 +8,10 @@ I primarily do C# (.NET backends) but I've also done a lot of hobby projects in 
 I like 2000s and early 2010s tech (back when it was usable and not just bloat). Outside of programming, I enjoy playing Minecraft or Call of Duty, and drawing.
 I also swim, bike and run A LOT. I'm trainging for an IronMan 70.3 triathlon (will update on how it goes)
 
-📫 How to reach me:
-    * [Email](mailto:kalebahelp@gmail.com)
-    * [Instagram](https://www.instagram.com/kaleba.k/)
-    * [LinkedIn](https://www.linkedin.com/in/kalebakeitshokile/)
+📫 How to reach me:\
+    [Email](mailto:kalebahelp@gmail.com)\
+    [Instagram](https://www.instagram.com/kaleba.k/)\
+    [LinkedIn](https://www.linkedin.com/in/kalebakeitshokile/)
 
 <!---
 A dice game I made: https://student.csc.liv.ac.uk/~sgkkeits/game.html
